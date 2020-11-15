@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CINE_LAT | FOX PREMIUM COMEDY">
+    <display-name lang="es">CINE_LAT | FOX PREMIUM COMEDY</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201115015800 -0600" stop="20201115034400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20201115034400 -0600" stop="20201115052200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Angus, tangas y besos</title>
+  </programme>
+  <programme start="20201115052200 -0600" stop="20201115070000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Team America</title>
+  </programme>
+  <programme start="20201115070000 -0600" stop="20201115072400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201115072400 -0600" stop="20201115090800 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Fin de semana en familia</title>
+  </programme>
+  <programme start="20201115090800 -0600" stop="20201115104200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">The Sapphires</title>
+  </programme>
+  <programme start="20201115104200 -0600" stop="20201115121700 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Road Trip Beer Pong</title>
+  </programme>
+  <programme start="20201115121700 -0600" stop="20201115140300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Amor sin escalas</title>
+  </programme>
+  <programme start="20201115140300 -0600" stop="20201115152700 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Pride, Prejudice and Mistletoe</title>
+  </programme>
+  <programme start="20201115152700 -0600" stop="20201115165200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Walk of fame</title>
+  </programme>
+  <programme start="20201115165200 -0600" stop="20201115182600 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Victoria y el sexo</title>
+  </programme>
+  <programme start="20201115182600 -0600" stop="20201115202100 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Lo que ellos quieren</title>
+  </programme>
+  <programme start="20201115202100 -0600" stop="20201115220000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">La Noche de las Nerds</title>
+  </programme>
+  <programme start="20201115220000 -0600" stop="20201116000100 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Esta chica es un desastre</title>
+  </programme>
+  <programme start="20201116000100 -0600" stop="20201116014400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Último viaje a Las Vegas</title>
+  </programme>
+  <programme start="20201116014400 -0600" stop="20201116031000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Jackass la película</title>
+  </programme>
+  <programme start="20201116031000 -0600" stop="20201116043000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Reno 911! Miami</title>
+  </programme>
+  <programme start="20201116043000 -0600" stop="20201116054900 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Otra ridícula película de</title>
+  </programme>
+  <programme start="20201116054900 -0600" stop="20201116073000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">El viaje</title>
+  </programme>
+  <programme start="20201116073000 -0600" stop="20201116075600 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201116075600 -0600" stop="20201116093500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20201116093500 -0600" stop="20201116111300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Josie y las Melódicas</title>
+  </programme>
+  <programme start="20201116111300 -0600" stop="20201116123500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Una aerolínea de Soul</title>
+  </programme>
+  <programme start="20201116123500 -0600" stop="20201116141200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Angus, tangas y besos</title>
+  </programme>
+  <programme start="20201116141200 -0600" stop="20201116154600 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Mi novio es un zombie</title>
+  </programme>
+  <programme start="20201116154600 -0600" stop="20201116171500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">El Gran Buck Howard</title>
+  </programme>
+  <programme start="20201116171500 -0600" stop="20201116184200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Los Mercenarios</title>
+  </programme>
+  <programme start="20201116184200 -0600" stop="20201116201300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20201116201300 -0600" stop="20201116220000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Verano en Staten Island</title>
+  </programme>
+  <programme start="20201116220000 -0600" stop="20201116234800 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">De tonta, nada</title>
+  </programme>
+  <programme start="20201116234800 -0600" stop="20201117012400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">The Inbetweeners La película</title>
+  </programme>
+  <programme start="20201117234800 -0600" stop="20201118012400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">The Inbetweeners La película</title>
+  </programme>
+  <programme start="20201118012400 -0600" stop="20201118024500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Una pareja infernal</title>
+  </programme>
+  <programme start="20201118024500 -0600" stop="20201118040200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Freeloaders</title>
+  </programme>
+  <programme start="20201118040200 -0600" stop="20201118053200 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20201118053200 -0600" stop="20201118070300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Hermanas Y Hermanos</title>
+  </programme>
+  <programme start="20201118070300 -0600" stop="20201118083000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">El viaje</title>
+  </programme>
+  <programme start="20201118083000 -0600" stop="20201118095400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Pride, Prejudice and Mistletoe</title>
+  </programme>
+  <programme start="20201118095400 -0600" stop="20201118114400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Beautiful girls</title>
+  </programme>
+  <programme start="20201118114400 -0600" stop="20201118131500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Ana y el apocalipsis</title>
+  </programme>
+  <programme start="20201118131500 -0600" stop="20201118143300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Otra ridícula película de</title>
+  </programme>
+  <programme start="20201118143300 -0600" stop="20201118155300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Reno 911! Miami</title>
+  </programme>
+  <programme start="20201118155300 -0600" stop="20201118174000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20201118174000 -0600" stop="20201118190700 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Grounded for Christmas</title>
+  </programme>
+  <programme start="20201118190700 -0600" stop="20201118203500 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Señales de amor</title>
+  </programme>
+  <programme start="20201118203500 -0600" stop="20201118220000 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Walk of fame</title>
+  </programme>
+  <programme start="20201118220000 -0600" stop="20201118235400 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">Lo que ellos quieren</title>
+  </programme>
+  <programme start="20201118235400 -0600" stop="20201119013300 -0600" channel="CINE_LAT | FOX PREMIUM COMEDY">
+    <title lang="es">La Noche de las Nerds</title>
+  </programme>
+</tv>
